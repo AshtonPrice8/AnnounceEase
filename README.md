@@ -8,7 +8,7 @@ Key Features:
 - Teacher-Exclusive Access: Teachers have the ability to create and manage announcements.
 - Real-time Notifications: *WORK IN-PROGRESS* Deliver announcements to students and recipients in real time through push notifications.
 - User-Friendly Interface: Provide a seamless and intuitive interface that makes creating and managing announcements effortless.
-- KNOWN ERROR: Firebase is down - working to create a new one to re-run.
+- Requires a firebase
 
 Technologies: Swift, SwiftUI, Firebase Authentication, Cloud Firestore
 Platform: iOS
